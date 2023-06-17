@@ -1,5 +1,7 @@
 # Building a multidevice workout app
 
+[Source](https://developer.apple.com/documentation/healthkit/workouts_and_activity_rings/building_a_multidevice_workout_app)
+
 Mirror a workout from a watchOS app to its companion iOS app, and perform bidirectional communication between them.
 
 ## Overview
